@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו עולם של עיצוב פרימיום עם פרגולות מרהיבות, חלונות נאספים מתקפלים למרפסת ומערכות זכוכית ללא מסגרת. הפכו את החלל החיצוני שלכם לחלל מחיה מושלם. צרו קשר עוד היום!
+
+### מערכות
+https://example.com/systems
+חקרו את מגוון מערכות הזכוכית המתקדמות שלנו: חלונות נאספים מתקפלים למרפסת, פרגולה עם חלונות מתקפלים וחלונות זכוכית ללא מסגרת. פתרונות אדריכליים יוקרתיים לכל בית. גלו עכשיו!
+
+### אודות
+https://example.com/about
+וילון גלאס היא המובילה בפתרונות זכוכית ואלומיניום יוקרתיים לבית המודרני. מניסיון של שנים, אנו מביאים חזון, מקצועיות ועיצוב חדשני לכל פרויקט פרגולות וחלונות מתקפלים. הכירו אותנו!
+
+### צור קשר
+https://example.com/contact
+מוכנים לשדרג את המרפסת או הגינה שלכם? צרו קשר עם מומחי וילון גלאס לייעוץ חינם והצעת מחיר לפרגולות, חלונות נאספים מתקפלים למרפסת ומערכות זכוכית ללא מסגרת. נשמח לעזור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
